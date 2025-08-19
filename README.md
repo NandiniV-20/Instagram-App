@@ -12,8 +12,8 @@ A simple Instagram clone app built using Flutter (Dart). This project replicates
 
 # Installation & Setup
 - Clone the repository
-git clone https://github.com/your-username/instagram-clone.git
-cd instagram-clone
+git clone https://github.com/NandiniV-20/Instagram-App.git
+cd Instagram-App
 
 - Install dependencies
 flutter pub get
