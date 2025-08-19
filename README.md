@@ -24,6 +24,6 @@ flutter run
 -Add your google-services.json (Android) and GoogleService-Info.plist (iOS).
 # 📌 DataOpps-Portal
 
-![Dashboard Screenshot]([https://github.com/user-attachments/assets/ca155472-fc33-4264-a0f3-98ddc8cedfe2])
+![Login Screenshot](https://github.com/user-attachments/assets/ca155472-fc33-4264-a0f3-98ddc8cedfe2)
 
 
